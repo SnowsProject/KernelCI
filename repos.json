@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "No-Melody",
-      "repo": "https://github.com/Renzprjkt/android_kernel_xiaomi_spes",
-      "branch": "No-Melody",
-      "device": "spes",
-      "defconfig": "vendor/Bloss-Shine_defconfig"
+      "name": "pura-pura-gak-liat",
+      "repo": "https://github.com/Shakib-BD/kernel_positron_sweet2-positron",
+      "branch": "Positron",
+      "device": "sweet",
+      "defconfig": "sweet2_defconfig"
   },
     "withKernelSU": false,
     "toolchains": [
