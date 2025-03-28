@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Bloss-Shine",
-      "repo": "https://github.com/Shiinaeru-Lab/kernel_xiaomi_ysl",
-      "branch": "main",
-      "device": "ysl",
-      "defconfig": "ysl_defconfig"
+      "name": "Pura-pura-gak-liat",
+      "repo": "https://github.com/Shakib-BD/kernel_positron_sweet2-positron",
+      "branch": "Positron",
+      "device": "sweet",
+      "defconfig": "sweet2_defconfig"
   },
     "withKernelSU": false,
     "toolchains": [
@@ -38,7 +38,7 @@
       "use": true,
       "release": true,
       "repo": "https://github.com/Renzprjkt30/Anykernel3",
-      "branch": "main"
+      "branch": "spesn"
     }
   }
 ]
