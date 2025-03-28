@@ -37,7 +37,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/Renzprjkt30/Anykernel3",
+      "repo": "https://github.com/Renzprjkt/Anykernel3",
       "branch": "spes"
     }
   }
